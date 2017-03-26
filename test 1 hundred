@@ -1,0 +1,5 @@
+print("Hello World!")
+a = 0
+while a <= 100:
+  print("test")
+  a+=1
